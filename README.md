@@ -11,7 +11,7 @@ Me and my colleagues were hired by the Outer Wilds Department of ACME Corp (A Co
 
 The Outer Wilds department specialized in outdoor rescue and have developed long-range drone technology to cover large areas and support rescuing in hostile environments.
 
-The main problem with the Outer Wilds department is they did not followed an interative and incremental approach. They focussed on bulidng the hardware and postponed the implementation of the controller. As a result of this, the Outer Wilds departement have an $100 000 drone with no way to control it!
+The main problem with the Outer Wilds department is they did not followed an interative and incremental approach. They focussed on bulidng the hardware and postponed the implementation of the controller. As a result of this, the Outer Wilds departement created a $100 000 drone with no way to control it!
 
 It was our job to solve this issue.
 
