@@ -1,10 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/OY6OZuzi)
-# [A2] Island ca.mcmaster.se2aa4.island.team00.Explorer
+# Island Explorer Assignment
 
-- Authors:
-  - [Jake, Finlay](finlaj11@mcmaster.ca) 
-  - [Vikram, Chandar](chandarv@mcmaster.ca)
-  - [Arjun, Sasidaran](sasidara@mcmaster.ca)
+### Authors
+  - [Jake Finlay](finlaj11@mcmaster.ca) 
+  - [Vikram Chandar](chandarv@mcmaster.ca)
+  - [Arjun Sasidaran](sasidara@mcmaster.ca)
+
+## Project Description
+
+Me and my colleagues were hired by the Outer Wilds Department of ACME Corp (A Compnay that Makes Everyting) to work on their _Rescue Drone System_. The system aimed to support the resucing of individuals by finding a safe place for a rescue team to land on an unexplored island.
+
+The Outer Wilds department specialized in outdoor rescue and have developed long-range drone technology to cover large areas and support rescuing in hostile environments.
+
+The main problem with the Outer Wilds department is they did not followed an interative and incremental approach. They focussed on bulidng the hardware and postponed the implementation of the controller. As a result of this, the Outer Wilds departement have an $100 000 drone with no way to control it!
+
+It was our job to solve this issue.
 
 ## Product Description
 
@@ -13,9 +22,6 @@ This product is an _exploration command center_ for the [Island](https://ace-des
 - The `ca.mcmaster.se2aa4.island.team_XXX_.Explorer` class implements the command center, used to compete with the others. (XXX being the team identifier)
 - The `Runner` class allows one to run the command center on a specific map.
 
-### Strategy description
-
-The exploration strategy is for now to stop exploring as soon as we start. We stay safe and fly back to base immediately.
 
 ## How to compile, run and deploy
 
@@ -52,9 +58,3 @@ It creates three files in the `outputs` directory:
 - `_pois.json`: the location of the points of interests
 - `Explorer_Island.json`: a transcript of the dialogue between the player and the game engine
 - `Explorer.svg`: the map explored by the player, with a fog of war for the tiles that were not visited.
-
-### Deploying the project to the arena
-
-Each week, you'll have to `tag` the version you want to submit for the competition. This version will be used in the weekly run. No tag means no competition.
-
-The tag syntax is `wX`, with `X` the week number. So your product for the first week will be tagged `w1`.
