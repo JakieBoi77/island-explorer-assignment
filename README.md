@@ -7,13 +7,11 @@
 
 ## Project Description
 
-Me and my colleagues were hired by the Outer Wilds Department of ACME Corp (A Compnay that Makes Everyting) to work on their _Rescue Drone System_. The system aimed to support the resucing of individuals by finding a safe place for a rescue team to land on an unexplored island.
+My colleagues and I were hired by the Outer Wilds Department of ACME Corp (A Company that Makes Everything) to contribute to their Rescue Drone System project. The system's primary goal was to facilitate the rescue of individuals by identifying safe landing zones for rescue teams on unexplored islands.
 
-The Outer Wilds department specialized in outdoor rescue and have developed long-range drone technology to cover large areas and support rescuing in hostile environments.
+The Outer Wilds Department specializes in outdoor rescue and has developed cutting-edge, long-range drone technology capable of operating in vast and hostile environments. However, they faced a significant challenge in their development process. They had focused heavily on perfecting the drone’s hardware but delayed the design and implementation of the controller software. While the hardware was completed after several months and ready for deployment, the system lacked the necessary software to fully function.
 
-The Outer Wilds department had one big problem though. They did not follow an interative and incremental approach when they created the drone! Instead, they focused on bulidng the hardware and postponed the implementation of the controller. As a result of this, the Outer Wilds departement created a $100 000 drone with no way to control it!
-
-It was our job to solve this issue.
+Our team was brought in to address this critical gap, ensuring the integration of a robust, iterative, and incremental software solution to make the Rescue Drone System operational.
 
 ## Product Description
 
