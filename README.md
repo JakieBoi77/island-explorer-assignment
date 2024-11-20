@@ -1,4 +1,4 @@
-# Island Explorer Assignment
+# Island Explorer
 
 ### Authors
   - [Jake Finlay](finlaj11@mcmaster.ca) 
